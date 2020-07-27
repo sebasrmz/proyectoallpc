@@ -1,0 +1,14 @@
+body{
+    background: #161616;
+}
+
+.logo{
+    height: 100px;
+    width: 175px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}

@@ -1,0 +1,24 @@
+body{
+    background: #161616;
+}
+
+
+.logo{
+    height: 100px;
+    width: 175px;
+}
+.gabinete12 img{
+    height: 20%;
+}
+.pqelegirnos{
+    padding-top: 30px;
+    color: white;
+}
+.card-img-top{
+    height: 87px;
+}
+.nosotros{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
